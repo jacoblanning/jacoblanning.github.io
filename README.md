@@ -1,2 +1,0 @@
-# jacoblanning.github.io
-Playground
